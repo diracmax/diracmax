@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Experience
+
+2021/09 - current: Nagase, Inc.
+2022/07(1day): Speee, Inc.
+2022/07(3week): Retty, Inc.
+  blog: [Rettyのインターンでマイクロサービスを開発した話](https://engineer.retty.me/entry/2022/08/09/110000)
+（now） 2022/08(3week): Chatwork, Inc.
+(yet) 2022/08~2022/09: Recruit Co., Ltd.
+(yet) 2022/09(1week): Cybozu, Inc.
+
 <!--
 **diracmax/diracmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
