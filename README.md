@@ -12,9 +12,11 @@
 - 2022/07(1day): Speee, Inc.
 
 - 2022/07(3week): Retty, Inc.
+  - Golang, gRPC, CleanArchitectureでおすすめのお店リストに関するマイクロサービスを開発
   - blog: [Rettyのインターンでマイクロサービスを開発した話](https://engineer.retty.me/entry/2022/08/09/110000)
  
 - (now) 2022/08(3week): Chatwork, Inc.
+  - Scala, AkkaHTTP, DDDでバックエンド開発
 
 - (yet) 2022/08~2022/09: Recruit Co., Ltd.
 
