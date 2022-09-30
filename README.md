@@ -18,9 +18,10 @@
 - 2022/08(3week): Chatwork, Inc.
   - Scala, AkkaHTTP, DDDでバックエンド開発
 
-- (now) 2022/08~2022/09: Recruit Co., Ltd.
+- 2022/08~2022/09: Recruit Co., Ltd.
 
-- (yet) 2022/09(1week): Cybozu, Inc.
+- 2022/09(1week): Cybozu, Inc.
+  - Closure Library, Spring Bootでkintoneカスタマイズ
 
 <!--
 **diracmax/diracmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
