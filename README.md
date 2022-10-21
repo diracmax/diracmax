@@ -17,6 +17,7 @@
  
 - 2022/08(3week): Chatwork, Inc.
   - Scala, AkkaHTTP, DDDでバックエンド開発
+  - blog: [Chatworkサマーインターンに行ってきた2022 バックエンド（Scala）コース](https://qiita.com/diracmax/items/b838359f39c1a5d0de43)
 
 - 2022/08~2022/09: Recruit Co., Ltd.
 
