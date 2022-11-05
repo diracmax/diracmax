@@ -24,6 +24,8 @@
 - 2022/09(1week): Cybozu, Inc.
   - Closure Library, Spring Bootでkintoneカスタマイズ
 
+- 2022/11(now): ZOZO, Inc.
+
 <!--
 **diracmax/diracmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
