@@ -12,19 +12,25 @@
 - 2022/07(1day): Speee, Inc.
 
 - 2022/07(3week): Retty, Inc.
-  - Golang, gRPC, CleanArchitectureでおすすめのお店リストに関するマイクロサービスを開発
+  - おすすめのお店リストに関するマイクロサービスを開発
+  - 技術：　Golang, gRPC, Clean Architecture, Aurora
   - blog: [Rettyのインターンでマイクロサービスを開発した話](https://engineer.retty.me/entry/2022/08/09/110000)
  
 - 2022/08(3week): Chatwork, Inc.
-  - Scala, AkkaHTTP, DDDでバックエンド開発
+  - SPAのバックエンド開発を担当
+  - 技術: Scala, AkkaHTTP, DDD, CQS, Clean Architecture, MySQL
   - blog: [Chatworkサマーインターンに行ってきた2022 バックエンド（Scala）コース](https://qiita.com/diracmax/items/b838359f39c1a5d0de43)
 
 - 2022/08~2022/09: Recruit Co., Ltd.
+  - 技術：　Java, Spring Boot, DDD, CQS, MySQL
 
 - 2022/09(1week): Cybozu, Inc.
-  - Closure Library, Spring Bootでkintoneカスタマイズ
+  - Webサービス開発コースでkintoneカスタマイズ
+  - 技術： Closure Library, Spring Boot
 
-- 2022/11(now): ZOZO, Inc.
+- 2022/11(1month): ZOZO, Inc.
+  - 基幹システムのリプレイス業務を担当する就業型インターン
+  - 技術：　Java, Spring Boot, DDD, CQS
 
 <!--
 **diracmax/diracmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
