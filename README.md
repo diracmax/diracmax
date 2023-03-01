@@ -32,6 +32,10 @@
   - 基幹システムのリプレイス業務を担当する就業型インターン
   - 技術： Java, Spring Boot, DDD, CQS
 
+- 2023/1~2023/2: Yappli, Inc.
+  - サーバーサイド就業型インターン
+  - 技術： Nuxt.js, Go, PHP, gRPC, SQLite, MySQL
+
 <!--
 **diracmax/diracmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
